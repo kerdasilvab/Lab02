@@ -1,0 +1,14 @@
+uuid: 5fe6c1f0-1071-4c52-aa61-7dd719b48b10
+name: Laboratorio02
+mail: laboratorio02@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
