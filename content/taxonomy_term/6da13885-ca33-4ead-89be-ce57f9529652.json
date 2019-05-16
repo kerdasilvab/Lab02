@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/categorias"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/categorias\/parent": [
+            null
+        ]
+    },
+    "tid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6da13885-ca33-4ead-89be-ce57f9529652"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 2
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es",
+            "lang": "es"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "categorias"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-05-16T21:45:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "name": [
+        {
+            "value": "Copyleft",
+            "lang": "es"
+        }
+    ],
+    "description": [
+        {
+            "value": "<p>Licencia de&nbsp;<strong>Copyleft<\/strong><\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<p>Licencia de\u00a0<strong>Copyleft<\/strong><\/p>",
+            "lang": "es"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/categorias\/parent": [
+            null
+        ]
+    },
+    "changed": [
+        {
+            "value": "2019-05-16T22:15:49+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "es",
+            "lang": "es"
+        }
+    ]
+}
